@@ -16,4 +16,4 @@ gem "mongoid"
 # Use unicorn as the app server
 gem 'unicorn'
 
-gem 'rspec'
+gem 'rspec-rails'
